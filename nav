@@ -1,0 +1,15 @@
+  <nav>
+            <h1>MuzakMaker</h1>
+            <ul>
+                <li><a href="#muzakmaker">MuzakMaker</a></li>
+                <li><a href="#trendingT">rending Songs</a></li>
+                <li><a href="#playlist">Your playlists</a></li>
+                <li><a href="curated">Curated Playlists</a></li>
+                <img src="images/duke-silver.png"/>
+            </ul>
+        </nav>
+        <header>
+        <h2>Smooth Jazz</h2>
+        <p>This station is dedicated to the soothing sounds of smooth jazz. This genre of commercially oriented crossover jazz became dominant in the 1980s and early 1990s.</p>
+        </header>
+    </header>
